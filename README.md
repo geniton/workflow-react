@@ -46,7 +46,3 @@ A big thanks to [@hgtpcastro](https://github.com/hgtpcastro) for this tip.
 - `yarn storybook:build`: Build Storybook to static files
 - `yarn update-packages`: Update all packages to the latest version
 - `yarn start (or npm start)`: Special script reserved to run production code. Change as you wish. For now, it is the same as `yarn dev`.
-
-## License
-
-[MIT](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Fernando Daciuk
