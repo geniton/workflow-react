@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1595788378128" clover="3.2.0">
-  <project timestamp="1595788378128" name="All files">
+<coverage generated="1595789607041" clover="3.2.0">
+  <project timestamp="1595789607041" name="All files">
     <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2" elements="18" coveredelements="18" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1">
       <file name="create-reducer.js" path="/home/geniton/Projetos/todo-list-app/src/redux-flow/reducers/create-reducer.js">
         <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
